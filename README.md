@@ -330,21 +330,6 @@ Collection of production-ready automation workflows: **WhatsApp bakery chatbot**
 
 ---
 
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4B4&icon_color=00D4B4&text_color=FFFFFF&border_color=00D4B4&border_radius=10&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0D1117&title_color=00D4B4&text_color=FFFFFF&border_color=00D4B4&border_radius=10&langs_count=8" height="170" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0D1117&ring=00D4B4&fire=00D4B4&currStreakLabel=00D4B4&sideLabels=00D4B4&border=00D4B4&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## ◈ What I Can Build For You
 
