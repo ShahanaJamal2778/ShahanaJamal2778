@@ -23,7 +23,7 @@
 
 ---
 
-## 🧭 The Intelligence Behind the Insights
+## The Intelligence Behind the Insights
 
 > *"Most analysts read data. I make data speak — turning numbers into narratives, patterns into products, and insights into impact."*
 
@@ -100,7 +100,7 @@ I sit at the crossroads of **data science**, **machine learning**, and **softwar
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-00D4B4?style=for-the-badge&logoColor=black)
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -237,19 +237,6 @@ WhatsApp bakery chatbot, dental clinic voice agents (Retell AI + VAPI), dead lea
 
 ---
 
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4B4&icon_color=00D4B4&text_color=FFFFFF&border_color=00D4B4&border_radius=10&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0D1117&title_color=00D4B4&text_color=FFFFFF&border_color=00D4B4&border_radius=10&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0D1117&ring=00D4B4&fire=00D4B4&currStreakLabel=00D4B4&sideLabels=00D4B4&border=00D4B4&border_radius=10"/>
-
-</div>
 
 ---
 
@@ -269,7 +256,7 @@ WhatsApp bakery chatbot, dental clinic voice agents (Retell AI + VAPI), dead lea
 
 ## ◈ What I Can Build For You
 
-| 📊 Data & Analytics | 🤖 AI & ML Solutions | 🌐 Full-Stack Products |
+|  Data & Analytics |  AI & ML Solutions | 🌐 Full-Stack Products |
 |---|---|---|
 | Executive Power BI / Tableau dashboards | Custom ML models for your domain | Next.js + FastAPI full-stack apps |
 | ETL pipelines from messy multi-source data | Computer vision & defect detection | AI-integrated web platforms |
