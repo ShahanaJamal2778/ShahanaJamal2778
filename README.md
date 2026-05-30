@@ -10,7 +10,7 @@
 &nbsp;
 ![Experience](https://img.shields.io/badge/Experience-2%2B_Years-00D4B4?style=flat-square)
 &nbsp;
-![Education](https://img.shields.io/badge/BSc-Computer_Science_UBIT_Karachi-0096A0?style=flat-square)
+![Education](https://img.shields.io/badge/BSc-Computer_Science_UBIT_-0096A0?style=flat-square)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D4B4&label=Profile+Views)
 
@@ -45,7 +45,7 @@ I sit at the crossroads of **data science**, **machine learning**, and **softwar
 </details>
 
 <details>
-<summary><b>🤖 Machine Learning & AI Engineering</b></summary>
+<summary><b> Machine Learning & AI Engineering</b></summary>
 <br/>
 
 - **Computer Vision** — Custom Ultralytics YOLO trained on real factory data · SAM for automated annotation
@@ -95,7 +95,7 @@ I sit at the crossroads of **data science**, **machine learning**, and **softwar
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-00D4B4?style=for-the-badge&logoColor=black)
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
