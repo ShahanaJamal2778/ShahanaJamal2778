@@ -1,21 +1,16 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                 SHAHANA MANSOOR JAMAL                        -->
-<!--                GitHub Profile README.md                      -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1117,00D4B4,0096A0&height=200&section=header&text=Shahana%20Mansoor%20Jamal&fontSize=46&fontColor=00D4B4&fontAlignY=42&animation=fadeIn&desc=Data%20Analyst%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Developer&descAlignY=62&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00D4B4&center=true&vCenter=true&width=700&lines=📊+Data+Analyst+→+Full-Stack+Developer;🤖+ML+Engineer+%7C+Insights+to+Intelligence;🏆+Procom+2026+Data+Verse+Runner-Up;⚡+Power+BI+%7C+Python+%7C+ML+%7C+Next.js;🔍+Turning+Raw+Data+into+Real+Decisions;🌐+Building+AI-Powered+Data+Products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00D4B4&center=true&vCenter=true&width=700&lines=Data+Analyst+%E2%86%92+Full-Stack+Developer;ML+Engineer+%7C+Insights+to+Intelligence;Procom+2026+Data+Verse+Runner-Up;Power+BI+%7C+Python+%7C+ML+%7C+Next.js;Turning+Raw+Data+into+Real+Decisions;Building+AI-Powered+Data+Products" alt="Typing SVG"/>
 
 <br/>
 
-![Procom](https://img.shields.io/badge/🏆_Procom_2026-Runner--Up-FFD700?style=flat-square)
+![Procom](https://img.shields.io/badge/Procom_2026-Runner--Up-FFD700?style=flat-square)
 &nbsp;
 ![Experience](https://img.shields.io/badge/Experience-2%2B_Years-00D4B4?style=flat-square)
 &nbsp;
-![Education](https://img.shields.io/badge/BSc-Computer_Science_·_UBIT-0096A0?style=flat-square)
+![Education](https://img.shields.io/badge/BSc-Computer_Science_UBIT_Karachi-0096A0?style=flat-square)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D4B4&label=Profile+Views)
 
@@ -23,7 +18,7 @@
 
 ---
 
-## The Intelligence Behind the Insights
+## 🧭 The Intelligence Behind the Insights
 
 > *"Most analysts read data. I make data speak — turning numbers into narratives, patterns into products, and insights into impact."*
 
@@ -77,11 +72,11 @@ I sit at the crossroads of **data science**, **machine learning**, and **softwar
 <summary><b>⚡ n8n Automation & AI Agents</b></summary>
 <br/>
 
-- 🥐 **WhatsApp Bakery Chatbot** — Automated customer support & order handling
-- 🦷 **Dental Clinic Voice Agents** — Retell AI & VAPI for appointment booking
-- 📉 **Dead Lead Follow-Up** — Airtable-integrated outbound voice agent
-- 📱 **Social Media Automation** — Auto Facebook & Instagram posts with Gemini
-- 💬 **Instagram DM Automation** — Intelligent engagement reply workflows
+- **WhatsApp Bakery Chatbot** — Automated customer support & order handling
+- **Dental Clinic Voice Agents** — Retell AI & VAPI for appointment booking
+- **Dead Lead Follow-Up** — Airtable-integrated outbound voice agent
+- **Social Media Automation** — Auto Facebook & Instagram posts with Gemini
+- **Instagram DM Automation** — Intelligent engagement reply workflows
 
 </details>
 
@@ -100,7 +95,7 @@ I sit at the crossroads of **data science**, **machine learning**, and **softwar
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-00D4B4?style=for-the-badge&logoColor=black)
 
-###  Machine Learning & AI
+### 🤖 Machine Learning & AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -225,38 +220,51 @@ WhatsApp bakery chatbot, dental clinic voice agents (Retell AI + VAPI), dead lea
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  🥈  RUNNER-UP  ·  Procom 2026 Data Verse Competition               ║
-║      FAST-NUCES, Karachi Campus  ·  February 2026                   ║
+║  RUNNER-UP  ·  Procom 2026 Data Verse Competition                   ║
+║  FAST-NUCES, Karachi Campus  ·  February 2026                       ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  Team AlphaMetrics — Multi-stage data analytics competition          ║
 ║  ✔ Fraud detection models on transactional data                      ║
 ║  ✔ Actionable financial insights for strategic decision-making       ║
-║  ✔ Stakeholder presentation translating data → business narrative    ║
+║  ✔ Stakeholder presentation translating data into business narrative ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
+## ◈ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D4B4&icon_color=00D4B4&text_color=FFFFFF&border_color=00D4B4&border_radius=10&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0D1117&title_color=00D4B4&text_color=FFFFFF&border_color=00D4B4&border_radius=10&langs_count=8" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0D1117&ring=00D4B4&fire=00D4B4&currStreakLabel=00D4B4&sideLabels=00D4B4&border=00D4B4&border_radius=10"/>
+
+</div>
 
 ---
 
 ## 📜 Certifications
 
-![Stanford ML](https://img.shields.io/badge/Supervised_ML-DeepLearning.AI_/_Stanford-0070AD?style=flat-square&logo=coursera&logoColor=white)
+![Stanford ML](https://img.shields.io/badge/Supervised_ML-DeepLearning.AI_%2F_Stanford-0070AD?style=flat-square&logo=coursera&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Udemy-F2C811?style=flat-square&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis_(Excel,_Power_BI,_R,_Tableau)-AINGenX-00D4B4?style=flat-square&logoColor=black)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-AINGenX_%7C_Excel_Power_BI_R_Tableau-00D4B4?style=flat-square&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG_with_LangChain-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
 ![DB Design](https://img.shields.io/badge/Database_Design-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
 ![DS Business](https://img.shields.io/badge/Data_Science_for_Business-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
 ![Dashboard](https://img.shields.io/badge/Dashboard_Design-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
-![Excel Charts](https://img.shields.io/badge/39_Excel_Charts-Irfan_Bakaly_MVP,_Udemy-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![FastAPI Cert](https://img.shields.io/badge/FastAPI-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
+![Excel Charts](https://img.shields.io/badge/39_Excel_Charts-Irfan_Bakaly_MVP_Udemy-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
 ## ◈ What I Can Build For You
 
-|  Data & Analytics |  AI & ML Solutions | 🌐 Full-Stack Products |
+| 📊 Data & Analytics | 🤖 AI & ML Solutions | 🌐 Full-Stack Products |
 |---|---|---|
 | Executive Power BI / Tableau dashboards | Custom ML models for your domain | Next.js + FastAPI full-stack apps |
 | ETL pipelines from messy multi-source data | Computer vision & defect detection | AI-integrated web platforms |
