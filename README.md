@@ -15,7 +15,7 @@
 &nbsp;
 ![Experience](https://img.shields.io/badge/Experience-2%2B_Years-00D4B4?style=flat-square)
 &nbsp;
-![Education](https://img.shields.io/badge/BSc-Computer_Science_·_UBIT_Karachi-0096A0?style=flat-square)
+![Education](https://img.shields.io/badge/BSc-Computer_Science_·_UBIT-0096A0?style=flat-square)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D4B4&label=Profile+Views)
 
